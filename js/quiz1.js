@@ -3,6 +3,6 @@ let person = {
     lastName: 'Kulsupannarat',
     age: 21,
     hobby: 'play game',
-    number: '0979355927'
+    Tel: '0979355927'
 }
 console.log(person)
